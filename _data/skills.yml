@@ -1,45 +1,14 @@
-- category: Languages
-  skills:
-    - Python
-    - Kotlin
-    - Java
-    - C
-    - SQL
-    - HTML5
-    - CSS3
-    - React Native
+- skill: Languages
+  description: "Python, Kotlin, Java, C, SQL, HTML5, CSS3, React Native"
 
-- category: Technologies
-  skills:
-    - Android
-    - iOS
-    - MongoDB
-    - Firebase
-    - Handlebars
-    - Matplotlib
+- skill: Technologies
+  description: "Android, iOS, MongoDB, Firebase, Handlebars, Matplotlib"
 
-- category: Concepts
-  skills:
-    - Object Oriented Programming
-    - Functional Programming
-    - Algorithms
-    - Data Structures
-    - Agile
-    - MVVM
-    - Rest API
-    - Azure
-    - Terra
+- skill: Concepts
+  description: "Object Oriented Programming, Functional programming, Algorithms, Data structures, Agile, MVVM, Rest API -> Azure, Terra"
 
-- category: Version Control
-  skills:
-    - Git
-    - GitHub
+- skill: Version Control
+  description: "Git, GitHub"
 
-- category: Design & Tools
-  skills:
-    - Adobe Photoshop
-    - Adobe Illustrator
-    - Figma
-    - Canva
-    - SolidWorks
-    - 3D printer OS
+- skill: Design & Tools
+  description: "Adobe Photoshop, Adobe Illustrator, Figma, Canva, SolidWorks, 3D printer OS"
