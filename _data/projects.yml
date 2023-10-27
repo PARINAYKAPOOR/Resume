@@ -8,13 +8,8 @@
   description: Worked in team of 4 to build an ios app that allows user to keep track of their Water hydration level and give them an alert notification when their hydration level goes below a threshold level.Impacting nearly 5 billion population of the world who is currently suffering from dehydration and can use the app which helps them to keep track of their water hydration level.
 
 - project: AI- based OCR App using Android and Kotlin
-  # role:
-  # duration:
   url: "https://github.com/PARINAYKAPOOR/AI-based-search"
   description: Built an app that allows user to take a picture of their problem as an input and using chatgpt API to get the output of the problem.Impacting nearly 4 billion of the population who are either students and adults by helping them in the need of hour when they cannot input a specific problem into the chatgpt website like a complex mathematics problem.
 
 - project: Sports celebrity Classifier - Python and Open-CV
-  # role:
-  # duration:
-
   description: Built an end to end data science Classification project which when given an image tells us which sports celebrity it is and also a statistics table about that player.Impacting the young children of the world who are on the path of learning new knowledge which can help them to recognize that player with that image.
