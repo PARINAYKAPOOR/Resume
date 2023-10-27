@@ -98,7 +98,7 @@ resume_social_links:
   # resume_dribbble_url: "https://dribbble.com/jag"
   resume_linkedin_url: "https://www.linkedin.com/in/parinay-kapoor-17a5a2255/"
   # resume_medium_url: "https://medium.com/@jglovier"
-resume_print_social_links: true
+# resume_print_social_links: true
 
 # Design settings
 resume_theme: default
